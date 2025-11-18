@@ -1,9 +1,4 @@
-/*
-LeetCode 127 - Word Ladder (Hard)
-
-Approach: BFS using word transformations via wildcard neighbors; classic BFS shortest path.
-Time: O(M * L * 26) roughly, Space: O(M * L)
-*/
+/* LeetCode 127 - Word Ladder (Hard) */
 
 #include <string>
 #include <vector>

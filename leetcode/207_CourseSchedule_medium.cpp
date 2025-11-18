@@ -1,9 +1,4 @@
-/*
-LeetCode 207 - Course Schedule (Medium)
-
-Approach: Detect cycle in directed graph using Kahn's algorithm (topological sort).
-Time: O(V+E), Space: O(V+E)
-*/
+/* LeetCode 207 - Course Schedule (Medium) */
 
 #include <vector>
 #include <queue>

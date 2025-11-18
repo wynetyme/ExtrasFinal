@@ -1,9 +1,4 @@
-/*
-LeetCode 133 - Clone Graph
-
-Approach: DFS with hashmap to map original nodes to cloned nodes.
-Time: O(N + E), Space: O(N)
-*/
+/* LeetCode 133 - Clone Graph (Easy) */
 
 #include <vector>
 #include <unordered_map>

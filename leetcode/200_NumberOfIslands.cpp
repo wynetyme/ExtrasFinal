@@ -1,9 +1,4 @@
-/*
-LeetCode 200 - Number of Islands
-
-Approach: Flood-fill (DFS) marking visited land as '0'.
-Time: O(m*n), Space: O(m*n) recursion worst-case.
-*/
+/* LeetCode 200 - Number of Islands (Medium) */
 
 #include <vector>
 using namespace std;

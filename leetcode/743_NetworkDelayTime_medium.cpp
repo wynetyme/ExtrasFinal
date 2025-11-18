@@ -1,9 +1,4 @@
-/*
-LeetCode 743 - Network Delay Time (Medium)
-
-Approach: Dijkstra's algorithm from source k to compute longest shortest-path.
-Time: O(E log V), Space: O(V+E)
-*/
+/* LeetCode 743 - Network Delay Time (Medium) */
 
 #include <vector>
 #include <queue>

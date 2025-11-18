@@ -1,9 +1,4 @@
-/*
-LeetCode 1091 - Shortest Path in Binary Matrix (Medium)
-
-Approach: BFS from (0,0) with 8-directional moves, return steps count.
-Time: O(n^2), Space: O(n^2)
-*/
+/* LeetCode 1091 - Shortest Path in Binary Matrix (Medium) */
 
 #include <vector>
 #include <queue>
